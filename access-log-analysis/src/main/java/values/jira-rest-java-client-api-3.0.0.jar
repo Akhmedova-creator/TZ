@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 04 12:48:05 YEKT 2022
+@default-atlassian-public-https\://packages.atlassian.com/maven/repository/public/.lastUpdated=1656920884359
+https\://repo.maven.apache.org/maven2/.lastUpdated=1656920885849
+https\://repo.maven.apache.org/maven2/.error=
+https\://packages.atlassian.com/maven/repository/public/.error=Could not transfer artifact com.atlassian.jira\:jira-rest-java-client-api\:jar\:3.0.0 from/to atlassian-public (https\://packages.atlassian.com/maven/repository/public)\: transfer failed for https\://packages.atlassian.com/maven/repository/public/com/atlassian/jira/jira-rest-java-client-api/3.0.0/jira-rest-java-client-api-3.0.0.jar
